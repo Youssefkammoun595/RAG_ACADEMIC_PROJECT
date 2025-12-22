@@ -52,19 +52,19 @@ An advanced **Retrieval-Augmented Generation (RAG)** system specialized in intel
 - **GPU**: Optional but recommended for faster inference
 
 ### Python Packages
-  -**torch>=2.0.0
-  -**transformers>=4.35.0
-  -**sentence-transformers>=2.2.0
-  -**faiss-cpu>=1.7.0
-  -**gradio>=4.0.0
-  -**pypdf2>=3.0.0
-  -**pdfplumber>=0.10.0
-  -**spacy>=3.7.0
-  -**nltk>=3.8.0
-  -**rank-bm25>=0.2.2
-  -**langchain-text-splitters>=0.0.1
-  -**accelerate>=0.24.0
-  -**bitsandbytes>=0.41.0
+  - **torch>=2.0.0**
+  -**transformers>=4.35.0**
+  -**sentence-transformers>=2.2.0**
+  -**faiss-cpu>=1.7.0**
+  -**gradio>=4.0.0**
+  -**pypdf2>=3.0.0**
+  -**pdfplumber>=0.10.0**
+  -**spacy>=3.7.0**
+  -**nltk>=3.8.0**
+  -**rank-bm25>=0.2.2**
+  -**langchain-text-splitters>=0.0.1**
+  -**accelerate>=0.24.0**
+  -**bitsandbytes>=0.41.0**
 
 
 ## 🏗️ Processing Pipeline
